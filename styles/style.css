@@ -8,6 +8,9 @@ label {
   display: inline-block;
 }
 
+.newTest{
+  display: block;
+}
 
 .addPaddingTop{
   padding-top: 20px;
