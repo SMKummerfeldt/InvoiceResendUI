@@ -24,7 +24,7 @@ module.exports = createReactClass({
           <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <a className="navbar-brand" href="#">
-                <img src="images/Sysco_Logo.png" width="50" height="30" className="d-inline-block align-top" alt=""/>
+                <img src="images/Logo.png" width="50" height="30" className="d-inline-block align-top" alt=""/>
               </a>
             </nav>
           </div>
